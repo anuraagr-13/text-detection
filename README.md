@@ -15,8 +15,7 @@ There are different methods defined based on the lighting and the background of 
 **Steps to run the files**
 
 - Run the ocr.py file by specifying -i (image) and -p (preprocessing step)
-
-The preprocessing steps differ based on a white, black or RGB background.
+    - The preprocessing steps differ based on a white, black or RGB background.
 
 
 Collaboarators : Akshay Arora (VIT University)
