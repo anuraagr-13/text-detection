@@ -18,4 +18,7 @@ There are different methods defined based on the lighting and the background of 
     - The preprocessing steps differ based on a white, black or RGB background.
 
 
+Here is the paper format report : [Report](https://github.com/anuraagr-13/text-detection/blob/main/Image%20Review3.pdf)
+
+
 Collaboarators : Akshay Arora (VIT University)
